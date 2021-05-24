@@ -1,0 +1,16 @@
+.special{
+color: white;
+margin: 0px 550px;
+	
+}
+body{
+    
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(84,84,166,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+footer{
+    background-size: cover;
+    text-align: center;
+    padding: 160px 50px 5 50px;
+
+}
